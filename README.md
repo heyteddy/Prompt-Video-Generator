@@ -38,3 +38,11 @@ return "C:\Prompt Video Generator\SampleVideo_1280x720_1mb.mp4"
 * 영상 생성: Placeholder(st.video + 로컬 MP4) 또는 향후 RunwayML/Pika API 연동 가능
 * 이력 관리: JSONL 파일(prompt_history.jsonl)
 * 환경 변수 관리: python-dotenv (.env 사용)
+
+### 실행 예시
+![실행 예시 1](https://github.com/user-attachments/assets/cb065bfe-a53e-4a1d-8278-3cfaf517733d)
+![실행 예시 2](https://github.com/user-attachments/assets/74636804-8afc-4f64-8a3e-691082d92031)
+![실행 예시 3](https://github.com/user-attachments/assets/4c76fdb0-d059-41dc-91c9-4806b5fbbe10)
+![실행 예시 4](https://github.com/user-attachments/assets/cff0bdb3-ea58-47a8-895e-0cbd68169340)
+![실행 예시 5](https://github.com/user-attachments/assets/34356b02-1928-4852-a7db-4de91c833a00)
+![실행 예시 6](https://github.com/user-attachments/assets/8501d4ea-83a1-4545-89a8-d584267f2776)
